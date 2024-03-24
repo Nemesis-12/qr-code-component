@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link rel="stylesheet" href="style.css">
@@ -15,16 +15,16 @@
 </head>
 <body>
 
-  <div class="container">
-    <div class="card">
-      <div class="qr">
+  <div role="container" class="container">
+    <div role="card" class="card">
+      <div role="qr-image" class="qr">
         <img src="images/image-qr-code.png" alt="QR Code">
       </div>
-      <div class="text-content">
-        <p class="heading">
+      <div role="text-content" class="text-content">
+        <p role="heading" class="heading">
           Improve your front-end skills by building projects
         </p>
-        <p class="text">
+        <p role="text" class="text">
           Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
         </p>  
       </div>
@@ -32,9 +32,9 @@
   </div>
   
   <footer>
-    <div class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="https://github.com/Nemesis-12" target="_blank">Farhan Mohammed</a>.
+    <div role="attribution" class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" role="challenge-link">Frontend Mentor</a>. 
+      Coded by <a href="https://github.com/Nemesis-12" target="_blank" role="author">Farhan Mohammed</a>.
     </div>
   </footer>
 </body>
