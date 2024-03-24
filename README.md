@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://qr-code-component-indol-tau.vercel.app)
 
 ## My process
 
@@ -33,13 +33,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-I will be attempting the solution again by using various frameworks such as React, Bootstrap, Tailwind, and so on.
+I will be attempting the solution again by using various frameworks/libraries such as React, Bootstrap, Tailwind, and so on.
 
 ### Useful resources
 
-- [CSS-Tricks Flexbox Guide]([https://www.example.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)) - If you ever need help with understanding CSS Flexbox this is the best resource to go to.
+- [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - If you ever need help with understanding CSS Flexbox this is the best resource to go to.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Farhan Mohammed (Still under construction)](https://famohammed.vercel.app)
+- Frontend Mentor - [@Nemesis-12](https://www.frontendmentor.io/profile/yourusername)
