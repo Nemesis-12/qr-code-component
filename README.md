@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [QR Code Component](https://qr-code-component-indol-tau.vercel.app)
+- Live Site URL: [QR Code Component](nemesis-12.github.io/qr-code-component/)
 
 ## My process
 
@@ -30,6 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML
 - CSS
+- Flexbox
 
 ### Continued development
 
