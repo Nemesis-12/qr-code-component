@@ -42,4 +42,4 @@ I will be attempting the solution again by using various frameworks/libraries su
 ## Author
 
 - Website - [Farhan Mohammed (Still under construction)](https://famohammed.vercel.app)
-- Frontend Mentor - [@Nemesis-12](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Nemesis-12](https://www.frontendmentor.io/profile/Nemesis-12)
